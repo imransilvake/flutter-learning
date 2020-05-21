@@ -2,7 +2,7 @@
 Introduction to Flutter Development Using Dart.
 
 
-#### List of flutter learning projects:
+#### List of projects:
 1. Mi Card
 1. Roll Dice
 1. Magic 8 Ball
