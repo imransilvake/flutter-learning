@@ -7,3 +7,6 @@ Introduction to Flutter Development Using Dart.
 1. Roll Dice
 1. Magic 8 Ball
 1. Xylophone
+
+#### Credits:
+App Brewery
