@@ -1,5 +1,5 @@
 # Flutter Learning
-list of flutter learning projects
+List of flutter learning projects
 
 1. Mi Card
 1. Roll Dice
