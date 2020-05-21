@@ -8,4 +8,4 @@ The objective of this challenge is to solidify what you've learn't in the Roll D
 
 We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
 
-![Finished App](preview.png&s=200)
+<img src="preview.png" width="30%">
