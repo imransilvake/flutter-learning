@@ -1,4 +1,4 @@
-# flutter-learning
+# Flutter Learning
 list of flutter learning projects
 
 1. Mi Card
