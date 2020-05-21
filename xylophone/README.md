@@ -1,4 +1,4 @@
 # xylophone
-An app that plays music.
+An app to play music sounds.
 
 <img src="preview.png" width="30%">
